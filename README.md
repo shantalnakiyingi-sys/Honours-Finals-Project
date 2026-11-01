@@ -18,7 +18,7 @@ This project contributes to the development of next-generation live biotherapeut
 
 ## Repository Contents 
 ### Overview 
-|**File name**                  | **Brief Description **    |
+|**File name**                  | **Brief Description**    |
 |:------------------------------|:--------------------------|
 |README.md                      | Overview of the research project and repository contents  |
 |Code for Honours Project 2026  | Bash commands and bioinformatics tools used in the project |
