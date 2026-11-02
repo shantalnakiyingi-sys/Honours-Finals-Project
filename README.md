@@ -13,8 +13,6 @@ Bacterial vaginosis (BV) is a common vaginal condition characterised by alterati
 
 This project contributes to the development of next-generation live biotherapeutics by investigating the genomic diversity and functional potential of vaginal Lactobacillus crispatus isolates from an African cohort. Identifying promising strains may help inform the development of locally relevant, genomics-guided biotherapeutic approaches for BV.
 
-## Project objectives 
-
 
 ## Repository Contents 
 ### Overview 
